@@ -4,7 +4,7 @@
 	         AnyLogic Project File 
 *************************************************	         
 -->
-<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.7.4.202104291637" AlpVersion="8.7.2">
+<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.7.12.202205250455" AlpVersion="8.7.5">
 <Model>
 	<Id>1585133588989</Id>
 	<Name><![CDATA[NEON Netherlands integral model Wind op Zee Groningen]]></Name>
